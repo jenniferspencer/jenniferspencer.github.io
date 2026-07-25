@@ -5,9 +5,7 @@ title: About
 permalink: /about/
 ---
 
-|     |                                                                                                                                |     |
-|---------------|------------------------------------------|---------------|
-|     | ![](https://github.com/jenniferspencer/jenniferspencer.github.io/blob/main/photos/headshot_small.jpg?raw=true){width="3.42in"} |     |
+![Jenny's Headshot](https://github.com/jenniferspencer/jenniferspencer.github.io/blob/main/photos/headshot_small.jpg?raw=true) 
 
 **My work** relies on **econometric and decision science method**s to address issues of **health equity** in the topic of **cancer screening and prevention**. A few of my ongoing research projects include:
 
