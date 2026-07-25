@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: https://jenniferspencer.github.io/About
+    url: /About
   - title: "CV"
-    url: https://jenniferspencer.github.io/CV
+    url: /CV
   - title: "Publications"
-    url: https://jenniferspencer.github.io/Publications
+    url: /Publications
 
   # - title: "Sample Posts"
   #   url: /year-archive/
