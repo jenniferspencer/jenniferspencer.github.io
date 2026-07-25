@@ -4,10 +4,11 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/_pages/about.html</loc>
 <lastmod>2026-07-24T21:32:37-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+<lastmod>2026-07-24T21:48:25-05:00</lastmod>
 </url>
 </urlset>
