@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jenny Spencer"
 description              : "Dr. Spencer's Professional Website"
-url                      : # the base hostname & protocol for your site e.g. "https://jenniferspencer.github.io/"
+url                      : "https://jenniferspencer.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -237,6 +237,11 @@ sass:
 permalink: /:categories/:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+
+collections:
+  pages:
+    output: true
+    permalink: /:jenniferspencer.github.io/
 
 # Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show

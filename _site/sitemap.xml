@@ -2,6 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/CV/</loc>
+<lastmod>2026-07-24T22:42:40-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Publications/</loc>
+<lastmod>2026-07-24T22:42:40-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+<lastmod>2026-07-24T22:42:40-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/CV/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Publications/</loc>
@@ -14,6 +26,14 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/Publications.html</loc>
+<lastmod>2026-07-24T22:33:14-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/about.html</loc>
+<lastmod>2026-07-24T22:07:38-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/_pages/Publications.html</loc>
