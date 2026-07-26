@@ -17,7 +17,7 @@ permalink: /Publications/
 
             *Simulation Modeling* 🔲 *\| Health Equity* ❇️
 
-   *last updated: July 2026* 
+   *last updated: July 2026*
 
 **Publications**
 
