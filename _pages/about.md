@@ -2,10 +2,10 @@
 layout: splash
 author_profile: true
 title: About
-permalink: /about/
+permalink: /About/
 ---
 
-![Jenny's Headshot](https://github.com/jenniferspencer/jenniferspencer.github.io/blob/main/photos/headshot_small.jpg?raw=true) 
+![Jenny's Headshot](../assets/images/headshot_small.jpg) 
 
 **My work** relies on **econometric and decision science method**s to address issues of **health equity** in the topic of **cancer screening and prevention**. A few of my ongoing research projects include:
 
@@ -23,6 +23,8 @@ permalink: /about/
 
 I completed a postdoctoral fellowship with the Training in Oncology Population Sciences program at the Dana Farber Cancer Institute and the Harvard School of Public Health, where I continued my work in HPV vaccination and began to work with the CISNET Cervical team on multiple projects understanding the impact of heterogeneity in HPV vaccination and cervical cancer screening.
 
-I joined the Department of Population Health at the Dell Medical School at the University of Texas at Austin in 2021. My work expanded to include work in colorectal and breast cancer. I have been lucky to partner with numerous collaborators dedicated to improving cancer outcomes across the state of Texas and beyond.
+I joined the Department of Population Health at the Dell Medical School at the University of Texas at Austin in 2021. My work expanded to include work in colorectal and breast cancer. I have been lucky to partner with numerous collaborators dedicated to improving cancer outcomes across the state of Texas and beyond. In 2026, the Dell Medical School re-evaluated its departments and I am now in the Department of Quantitative and Systems Health Sciences. 
 
 **I live in beautiful Austin, Texas** with my dog, Pearl.
+
+![Jenny and Pearl](../assets/images/jenny_and_pearl.jpeg) 

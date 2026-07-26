@@ -2,7 +2,7 @@ var store = [{
         "title": "About",
         "excerpt":"My work relies on econometric and decision science methods to address issues of health equity in the topic of cancer screening and prevention. A few of my ongoing research projects include: Understanding and modeling differences in breast and cervical cancer screening by sexual orientation Modeling approaches to improve Colorectal Cancer...","categories": [],
         "tags": [],
-        "url": "/about/",
+        "url": "/About/",
         "teaser": null
       },{
         "title": "CV",
