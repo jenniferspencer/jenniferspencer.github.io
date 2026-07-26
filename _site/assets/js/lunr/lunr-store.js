@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "For Trainees",
-        "excerpt":"Prospective Students or Trainees Thanks so much for your interest! Research Opportunities - At this time, I do not have any open research opportunities for undergraduate, graduate, or post-doctoral fellows, but I will update this page when I do. Undergraduates interested in getting involved in research at UT should check...","categories": [],
+        "excerpt":"For Students and Trainees Prospective Students or Trainees Thanks so much for your interest! Research Opportunities - At this time, I do not have any open research opportunities for undergraduate, graduate, or post-doctoral fellows, but I will update this page when I do. Undergraduates interested in getting involved in research...","categories": [],
         "tags": [],
         "url": "/ForTrainees/",
         "teaser": null

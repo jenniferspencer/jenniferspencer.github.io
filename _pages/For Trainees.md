@@ -5,11 +5,13 @@ title: For Trainees
 permalink: /ForTrainees/
 ---
 
-# Prospective Students or Trainees
+# For Students and Trainees
 
 <div align="center">
 <img src="../assets/images/Spencer_Zhang.jpeg" alt=" "/>
 </div>
+
+## Prospective Students or Trainees
 
 Thanks so much for your interest! 
 
@@ -18,7 +20,7 @@ Thanks so much for your interest!
 **Mentorship** - If you are looking for a mentor or collaborator on an existing research project, thesis, or dissertation, I currently have capacity to support a few additional projects provided they are aligned with one or more of my primary research themes: **simulation modeling**, **health equity**, or **cancer prevention/screening**.  If this is you - feel free to [reach out](mailto:jennifer_spencer@austin.utexas.edu)!
 
 
-# Current & Former Students and Trainees
+## Current & Former Students and Trainees
 
 I am very lucky to work with some amazing medical students at the Dell Medical School and with graduate students in multiple colleges at the University of Texas at Austin. 
 
