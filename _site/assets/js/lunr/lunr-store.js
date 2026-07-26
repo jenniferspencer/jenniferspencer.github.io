@@ -5,8 +5,8 @@ var store = [{
         "url": "/CV/",
         "teaser": null
       },{
-        "title": "About",
-        "excerpt":"  Guide to Papers by Topic:     Cancers Included: Cervical 🟦 | Colorectal 🟧 | Breast 🟪     Methods Incorporated: Simulation Modeling 🔲 | Health Equity ❇️ 1.     Spencer JC, Montealegre JR, Calderón-Mora J, Pignone MP. Evaluating Breast, Cervical and Colorectal Cancer Screening Rates in Women 45 to 64. JAMA Netw Open. 2026...","categories": [],
+        "title": "Publications",
+        "excerpt":"       Legend:     Cancers Included:             Cervical 🟦 | Colorectal 🟧 | Breast 🟪     Methods Incorporated:             Simulation Modeling 🔲 | Health Equity ❇️ Publications 1.     Spencer JC, Montealegre JR, Calderón-Mora J, Pignone MP. Evaluating Breast, Cervical and Colorectal Cancer Screening Rates in Women 45 to 64. JAMA Netw Open. 2026 May 01;...","categories": [],
         "tags": [],
         "url": "/Publications/",
         "teaser": null
