@@ -17,6 +17,8 @@ permalink: /Publications/
 
             *Simulation Modeling* 🔲 *\| Health Equity* ❇️
 
+   *last updated: July 2026* 
+
 **Publications**
 
 1.     **Spencer JC**, Montealegre JR, Calderón-Mora J, Pignone MP. Evaluating Breast, Cervical and Colorectal Cancer Screening Rates in Women 45 to 64. JAMA Netw Open. 2026 May 01; 9(5):e2612976. DOI: <https://doi.org/10.1001.jamanetworkopen.2026.12976>  🟦 🟧 🟪
