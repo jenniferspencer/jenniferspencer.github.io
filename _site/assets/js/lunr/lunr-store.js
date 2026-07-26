@@ -1,18 +1,18 @@
 var store = [{
         "title": "About",
-        "excerpt":"My work relies on econometric and decision science methods to address issues of health equity in the topic of cancer screening and prevention. A few of my ongoing research projects include: Understanding and modeling differences in breast and cervical cancer screening by sexual orientation Modeling approaches to improve Colorectal Cancer...","categories": [],
+        "excerpt":"About Me ::: {align=”center”} ::: My work relies on econometric and decision science methods to address issues of health equity in the topic of cancer screening and prevention. A few of my ongoing research projects include: Understanding and modeling differences in breast and cervical cancer screening by sexual orientation Modeling...","categories": [],
         "tags": [],
         "url": "/About/",
         "teaser": null
       },{
         "title": "CV",
-        "excerpt":"A link to a CV  ","categories": [],
+        "excerpt":"Curriculum Vitae   Link  ","categories": [],
         "tags": [],
         "url": "/CV/",
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"       Legend:     Cancers Included:             Cervical 🟦 | Colorectal 🟧 | Breast 🟪     Methods Incorporated:             Simulation Modeling 🔲 | Health Equity ❇️    last updated: July 2026 Publications 1.     Spencer JC, Montealegre JR, Calderón-Mora J, Pignone MP. Evaluating Breast, Cervical and Colorectal Cancer Screening Rates in Women 45 to 64. JAMA...","categories": [],
+        "excerpt":"  Below I have an updated list of all my peer-reviewed publications - if you’re interested in a specific topic, I’ve made a quick guide to make it easier to find topics by cancer site or methods used. Links are provided wherever possible but feel free to reach out if there’s...","categories": [],
         "tags": [],
         "url": "/Publications/",
         "teaser": null

@@ -5,4 +5,6 @@ title: CV
 permalink: /CV/
 ---
 
-A link to a CV
+# Curriculum Vitae
+
+Link

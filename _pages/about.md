@@ -5,35 +5,32 @@ title: About
 permalink: /About/
 ---
 
-<div align="center">
-  <img src="../assets/images/headshot_small.jpg" alt="Headshot of Jenny Spencer - a white woman with curly brown hair">
-</div>
+# About Me
+
+::: {align="center"}
+<img src="../assets/images/headshot_small.jpg" alt="Headshot of Jenny Spencer - a white woman with curly brown hair"/>
+:::
 
 **My work** relies on **econometric and decision science method**s to address issues of **health equity** in the topic of **cancer screening and prevention**. A few of my ongoing research projects include:
 
 -   Understanding and modeling differences in breast and cervical cancer screening by sexual orientation
 
--   Modeling approaches to improve Colorectal Cancer screening in Texas
+-   Modeling approaches to improve colorectal cancer screening in Texas
 
--   Understanding patterns of multiple cancer screening tests, especially among low-income and uninsured women
+-   Understanding patterns of using multiple cancer screening tests, especially among low-income and uninsured women
 
 -   Using real-world data on screening and follow-up patterns to understand racial disparities in cervical cancer outcomes
 
 -   Improving the simulation of HPV transmission across the lifespan, both in the US and Globally
 
-
-
 **My training** began at the University of North Carolina at Chapel Hill, where I completed my Masters and PhD in Health Policy and Management. I was also a predoctoral fellow in the Cancer Care Quality Training Program at the Lineberger Cancer Center. My dissertation focused on modeling the impact of HPV vaccination on disparities in HPV cancers by area poverty in the U.S., and was awarded the Marci Campbell Award for Excellence in Cancer Population Sciences.
 
 I completed a postdoctoral fellowship with the Training in Oncology Population Sciences program at the Dana Farber Cancer Institute and the Harvard School of Public Health, where I continued my work in HPV vaccination and began to work with the CISNET Cervical team on multiple projects understanding the impact of heterogeneity in HPV vaccination and cervical cancer screening.
 
-I joined the Department of Population Health at the Dell Medical School at the University of Texas at Austin in 2021. My work expanded to include work in colorectal and breast cancer. I have been lucky to partner with numerous collaborators dedicated to improving cancer outcomes across the state of Texas and beyond. In 2026, the Dell Medical School re-evaluated its departments and I am now in the Department of Quantitative and Systems Health Sciences.
-
-
+I joined the Department of Population Health at the Dell Medical School at the University of Texas at Austin in 2021. My work there expanded to include work in colorectal and breast cancer. I have been lucky to partner with numerous collaborators dedicated to improving cancer outcomes across the state of Texas and beyond. In 2026, the Dell Medical School re-worked its departments and I was moved to the newly created Department of Quantitative and Systems Health Sciences.
 
 **I live in beautiful Austin, Texas** with my dog, Pearl.
 
-
-<div align="center">
-  <img src="../assets/images/jenny_and_pearl.jpeg" alt="Jenny wearing sunglasses with a small white French Bulldog in a backpack">
-</div>
+::: {align="center"}
+<img src="../assets/images/jenny_and_pearl.jpeg" alt="Jenny wearing sunglasses with a small white French Bulldog in a backpack"/>
+:::
