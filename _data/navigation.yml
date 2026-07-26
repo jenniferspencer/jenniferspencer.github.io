@@ -6,6 +6,8 @@ main:
     url: /CV
   - title: "Publications"
     url: /Publications
+  - title: "For Trainees"
+    url: /ForTrainees
 
   # - title: "Sample Posts"
   #   url: /year-archive/

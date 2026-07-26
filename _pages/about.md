@@ -7,9 +7,9 @@ permalink: /About/
 
 # About Me
 
-::: {align="center"}
+<div align="center">
 <img src="../assets/images/headshot_small.jpg" alt="Headshot of Jenny Spencer - a white woman with curly brown hair"/>
-:::
+</div>
 
 **My work** relies on **econometric and decision science method**s to address issues of **health equity** in the topic of **cancer screening and prevention**. A few of my ongoing research projects include:
 
@@ -31,6 +31,7 @@ I joined the Department of Population Health at the Dell Medical School at the U
 
 **I live in beautiful Austin, Texas** with my dog, Pearl.
 
-::: {align="center"}
+
+<div align="center">
 <img src="../assets/images/jenny_and_pearl.jpeg" alt="Jenny wearing sunglasses with a small white French Bulldog in a backpack"/>
-:::
+</div>
