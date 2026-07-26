@@ -1,5 +1,5 @@
 var store = [{
-        "title": "About",
+        "title": "CV",
         "excerpt":"A link to a CV  ","categories": [],
         "tags": [],
         "url": "/CV/",

@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: true
-title: About
+title: CV
 permalink: /CV/
 ---
 
