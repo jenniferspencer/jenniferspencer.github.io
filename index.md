@@ -6,7 +6,7 @@ author_profile: true
 **Welcome!**
 
 <div align="center">
-  <img src="../assets/images/spencer_wide.jpeg" alt="Picture of Jenny Spencer - a white woman with curly brown hair standing in front of a waterfall">
+  <img src="../assets/images/Spencer_wide.jpeg" alt="Picture of Jenny Spencer">
 </div>
 
 I'm Jenny Spencer, a researcher at the Dell Medical School at the University of Texas at Austin.
