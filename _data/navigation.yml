@@ -8,9 +8,8 @@ main:
     url: /Publications
   - title: "For Trainees"
     url: /ForTrainees
-
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Research News"
+    url: /ResearchNews/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

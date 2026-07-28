@@ -21,7 +21,7 @@ title                    : "Jennifer C Spencer, PhD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jenny Spencer"
-description              : "Dr. Spencer's Professional Website"
+description              : "Dr. Jennifer Spencer's Professional Website"
 url                      : "https://jenniferspencer.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mistakes/minimal-mistakes"
@@ -117,7 +117,7 @@ author:
   name             : "Jenny Spencer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Professor working in Cancer Decision Science"
-  location         : #"Somewhere"
+  location         : University of Texas at Austin 
   email            : jennifer_spencer@austin.utexas.edu
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
@@ -170,6 +170,7 @@ include: ["_pages"]
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -332,7 +333,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true

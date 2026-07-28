@@ -22,4 +22,28 @@ var store = [{
         "tags": [],
         "url": "/Publications/",
         "teaser": null
-      },]
+      },{
+        "title": "Research News",
+        "excerpt":"Latest Posts Screening for Multiple Cancers- JAMA Network Open New paper published in JAMA Network Open examines the use of multiple cancer screening tests among women age-eligible for cervical, breast, and colorectal cancer screening using data from the Behavioral Risk Factor Surveillence Survey. We found only 50.3% of women age...","categories": [],
+        "tags": [],
+        "url": "/ResearchNews/",
+        "teaser": null
+      },{
+        "title": "HPV Dynamic Model Paper - MDM",
+        "excerpt":"A new paper has been published in Medical Decision Making. This study, in collaboration with Dr. Jane Kim and the Harvard cervical cancer modeling team uses data from the National Survey of Family Growth and other sources to re-design a heterosexual transmission model of HPV. This expands on prior work...","categories": [],
+        "tags": [],
+        "url": "/New-Paper-in-MDM/",
+        "teaser": null
+      },{
+        "title": "Outstanding Investigator Award",
+        "excerpt":"I was honored to be awarded the Department of Medicine’s 2026 Outstanding Investigator Award on June 3rd at the summer all-hands meeting.        ","categories": [],
+        "tags": [],
+        "url": "/Outstanding-Investigator-Award/",
+        "teaser": null
+      },{
+        "title": "Screening for Multiple Cancers- JAMA Network Open",
+        "excerpt":"New paper published in JAMA Network Open examines the use of multiple cancer screening tests among women age-eligible for cervical, breast, and colorectal cancer screening using data from the Behavioral Risk Factor Surveillence Survey. We found only 50.3% of women age 45-64 were up-to-date with all three recommended tests. Nearly...","categories": [],
+        "tags": [],
+        "url": "/Multiscreening_Paper/",
+        "teaser": null
+      }]
