@@ -1,6 +1,6 @@
 ---
   excerpt_separator: <!--more-->
-  title: "Screening for Multiple Cancers- JAMA Network Open"
+  title: "New Paper - JAMA Network Open: Screening for Multiple Cancers"
   read_time: false
 defaults:
   # _posts

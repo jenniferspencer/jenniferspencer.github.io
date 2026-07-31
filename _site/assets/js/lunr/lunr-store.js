@@ -24,13 +24,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Research News",
-        "excerpt":"Latest Posts Screening for Multiple Cancers- JAMA Network Open New paper published in JAMA Network Open examines the use of multiple cancer screening tests among women age-eligible for cervical, breast, and colorectal cancer screening using data from the Behavioral Risk Factor Surveillence Survey. We found only 50.3% of women age...","categories": [],
+        "excerpt":"Latest Posts Presentation - INFORMS Healthcare I had the opportunity to present at an invited session titled, “Equity-Informative Health Policy Simulation” at the 2026 INFORMS Healthcare Conference in Raleigh, NC. My presentation built from previously published work on using race-stratified models to understand what process improvements would have the largest...","categories": [],
         "tags": [],
         "url": "/ResearchNews/",
         "teaser": null
       },{
-        "title": "HPV Dynamic Model Paper - MDM",
-        "excerpt":"A new paper has been published in Medical Decision Making. This study, in collaboration with Dr. Jane Kim and the Harvard cervical cancer modeling team uses data from the National Survey of Family Growth and other sources to re-design a heterosexual transmission model of HPV. This expands on prior work...","categories": [],
+        "title": "New Paper - MDM: HPV Dynamic Model",
+        "excerpt":"A new paper published in Medical Decision Making examines approaches for dynamic modeling of HPV. This study, in collaboration with Dr. Jane Kim and the Harvard cervical cancer modeling team uses data from the National Survey of Family Growth and other sources to re-parameterize an existing heterosexual transmission model of...","categories": [],
         "tags": [],
         "url": "/New-Paper-in-MDM/",
         "teaser": null
@@ -41,9 +41,15 @@ var store = [{
         "url": "/Outstanding-Investigator-Award/",
         "teaser": null
       },{
-        "title": "Screening for Multiple Cancers- JAMA Network Open",
+        "title": "New Paper - JAMA Network Open: Screening for Multiple Cancers",
         "excerpt":"New paper published in JAMA Network Open examines the use of multiple cancer screening tests among women age-eligible for cervical, breast, and colorectal cancer screening using data from the Behavioral Risk Factor Surveillence Survey. We found only 50.3% of women age 45-64 were up-to-date with all three recommended tests. Nearly...","categories": [],
         "tags": [],
         "url": "/Multiscreening_Paper/",
+        "teaser": null
+      },{
+        "title": "Presentation - INFORMS Healthcare",
+        "excerpt":"I had the opportunity to present at an invited session titled, “Equity-Informative Health Policy Simulation” at the 2026 INFORMS Healthcare Conference in Raleigh, NC. My presentation built from previously published work on using race-stratified models to understand what process improvements would have the largest impact on reducing racial inequities in...","categories": [],
+        "tags": [],
+        "url": "/INFORMS_Healthcare/",
         "teaser": null
       }]
