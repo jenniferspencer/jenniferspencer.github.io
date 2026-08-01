@@ -10,7 +10,7 @@ permalink: /Publications/
   Below I have an updated list of all my peer-reviewed publications - if you're interested in a specific topic or combination of topics, I've made a quick guide to make it easier to find topics by cancer site or methods used. Links are provided wherever possible but feel free to reach out if there's a paper you're interested in that's not public access.
 
 <div align="center">
-  <img src="../assets/images/legend.png" alt="legend">
+  <img src="../assets/images/Legend.png" alt="legend">
 </div>
 
    
