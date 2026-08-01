@@ -1,6 +1,6 @@
 ---
   excerpt_separator: <!--more-->
-  title: "Presentation - INFORMS Healthcare"
+  title: "Presentation - INFORMS Healthcare (July 2026)"
   read_time: false
 defaults:
   # _posts

@@ -7,21 +7,15 @@ permalink: /Publications/
 
 # Publications 
 
-  Below I have an updated list of all my peer-reviewed publications - if you're interested in a specific topic, I've made a quick guide to make it easier to find topics by cancer site or methods used. Links are provided wherever possible but feel free to reach out if there's a paper you're interested in that's not public access.
+  Below I have an updated list of all my peer-reviewed publications - if you're interested in a specific topic or combination of topics, I've made a quick guide to make it easier to find topics by cancer site or methods used. Links are provided wherever possible but feel free to reach out if there's a paper you're interested in that's not public access.
 
-    **Legend:**
+<div align="center">
+  <img src="../assets/images/legend.png" alt="legend">
+</div>
 
-    **Cancers Included**:
+   
 
-            *Cervical* 🟦 \| *Colorectal* 🟧 *\| Breast* 🟪
-
-    **Methods Incorporated:**
-
-            *Simulation Modeling* 🔲 *\| Health Equity* ❇️
-
-   *last updated: July 2026*
-
-**Publications**
+**Publications** - *last updated: July 2026*
 
 1.     **Spencer JC**, Montealegre JR, Calderón-Mora J, Pignone MP. Evaluating Breast, Cervical and Colorectal Cancer Screening Rates in Women 45 to 64. JAMA Netw Open. 2026 May 01; 9(5):e2612976. DOI: <https://doi.org/10.1001.jamanetworkopen.2026.12976>  🟦 🟧 🟪
 

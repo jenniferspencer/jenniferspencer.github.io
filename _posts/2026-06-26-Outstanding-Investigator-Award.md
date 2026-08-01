@@ -1,6 +1,6 @@
 ---
   excerpt_separator: <!--more-->
-  title: "Outstanding Investigator Award"
+  title: "Outstanding Investigator Award (June 2026)"
   read_time: false
 defaults:
   # _posts

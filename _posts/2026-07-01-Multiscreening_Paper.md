@@ -1,6 +1,6 @@
 ---
   excerpt_separator: <!--more-->
-  title: "New Paper - JAMA Network Open: Screening for Multiple Cancers"
+  title: "New Paper - JAMA Network Open: Screening for Multiple Cancers (July 2026)"
   read_time: false
 defaults:
   # _posts

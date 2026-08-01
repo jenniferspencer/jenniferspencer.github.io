@@ -1,6 +1,6 @@
 ---
   excerpt_separator: <!--more-->
-  title: "New Paper - MDM: HPV Dynamic Model"
+  title: "New Paper - MDM: HPV Dynamic Model (June 2026)"
   read_time: false
 defaults:
   # _posts

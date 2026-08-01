@@ -39,11 +39,8 @@ Zhang S*, Patel VR, Spencer JC, Hayes AB, Adamson AS. Racial and Ethnic Differen
 
 Zhang H*, Spencer JC								                              	11/25	
 “Overuse of Cervical Cancer Screening Among Women Aged 18 to 21”. 
+Poster Presentation. 
 Livestrong Cancer Retreat, Austin TX
-
-Zhang H*, Spencer JC									                              11/25	
-“Overuse of Cervical Cancer Screening Among Women Aged 18 to 21”. 
-Dell Med Annual Research Symposium, Austin TX
 
 Lai JH*, Avenceña AL, Barner JC, Park C, Evoy KE, Spencer JC				08/25
 “Risk of respiratory and cardiovascular adverse events associated with gabapentinoid 

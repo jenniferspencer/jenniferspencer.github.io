@@ -21,12 +21,12 @@ title                    : "Jennifer C Spencer, PhD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jenny Spencer"
-description              : "Dr. Jennifer Spencer's Professional Website"
+description              : # "Dr. Jennifer Spencer's Professional Website"
 url                      : "https://jenniferspencer.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/research_venn.png"
+logo                     : "/assets/images/research_venn.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Jenny Spencer"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # None
   bio              : "Assistant Professor working in Cancer Decision Science"
   location         : University of Texas at Austin 
   email            : jennifer_spencer@austin.utexas.edu
