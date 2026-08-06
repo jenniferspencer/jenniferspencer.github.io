@@ -19,8 +19,8 @@ My research combines three primary research areas, using data and simulation mod
 </div>
 
 
-You can learn more about my research [here](https://jenniferspencer.github.io/About/). If you're a student or trainee interested in simulation modeling or cancer health equity, you can find out more about opportunities [here](https://jenniferspencer.github.io/ForTrainees/).
+You can learn more about me and my research [here](https://jenniferspencer.github.io/About/). If you're a student or trainee interested in simulation modeling or cancer health equity, you can find out more about opportunities [here](https://jenniferspencer.github.io/ForTrainees/).
 
-Posts below will feature news - including recent papers, presentations, or achievements of interest. 
+Posts below will feature news - including recent papers, presentations, or achievements of interest - you can read more on the [research news](https://jenniferspencer.github.io/ResearchNews/) tab.  
 
 *I coded this website myself using Jekyll and Github pages - with thanks to the "Minimal Mistakes" theme and the hope that any mistakes are indeed minimal!* 
