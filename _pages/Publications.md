@@ -15,9 +15,10 @@ permalink: /Publications/
 
    
 
-**Publications** - *last updated: July 2026*
+**Publications** - *last updated: August 2026*
+\* Indicates authorship by a mentee 
 
-1.     Noel L, Abousaway R\*, Zhang H\*, Spencer JC. Patient-centered communication and breast and cervical cancer screening in the US health information national trends survey. Prev Onc & Epid. 2026 Jul 30; 4(1). https://doi.org/10.1080/28322134.202.2710453 🟦 🟪 ❇️
+1.     Noel L, Abousaway R\*, Zhang H\*, **Spencer JC**. Patient-centered communication and breast and cervical cancer screening in the US health information national trends survey. Prev Onc & Epid. 2026 Jul 30; 4(1). https://doi.org/10.1080/28322134.202.2710453 🟦 🟪 ❇️
 
 2.      **Spencer JC**, Montealegre JR, Calderón-Mora J, Pignone MP. Evaluating Breast, Cervical and Colorectal Cancer Screening Rates in Women 45 to 64. JAMA Netw Open. 2026 May 01; 9(5):e2612976. DOI: <https://doi.org/10.1001.jamanetworkopen.2026.12976>  🟦 🟧 🟪
 
