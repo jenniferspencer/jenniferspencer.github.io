@@ -5,8 +5,6 @@ title: Publications
 permalink: /Publications/
 ---
 
-# Publications 
-
   Below is list of all my peer-reviewed publications - if you're interested in a specific topic or combination of topics, I've made a quick guide to make it easier to find topics by cancer site or methods used. Links are provided wherever possible but feel free to reach out if there's a paper you're interested in that's not public access.
 
 <div align="center">
@@ -15,11 +13,12 @@ permalink: /Publications/
 
    
 
-**Publications** - *last updated: August 2026*
+**Publications** - *last updated: Octoner 2026*
 \* Indicates authorship by a mentee 
 
 1.	Rattani A, **Spencer JC**, Agwu CK\*, Dewan MC, Kabachelor EM, Ssenyonga P, Mugamba J, Schiff SJ, Kulkarni AV, Warf BC. Five-year cost-effectiveness analysis of endoscopic third ventriculostomy with choroid plexus cauterization versus ventriculoperitoneal shunting in post-infectious hydrocephalus in a low-income setting. Neurosurgery. 2026 Sep 18. Online Ahead of Print. https://doi.org/10.1227/neu.0000000000004218 🔲
-2.	Lai JH, Avanceña ALV, Cata JP, Barner JC, Giordano SH, Park C, Zhao H, Evoy KE, Lin JK, **Spencer JC**, Chavez-MacGregor M, Hunt KK, Wanis KN. Initiation of Gabapentin with Opioids and Risk of Respiratory Cardiovascular and Opioid-Related Adverse Events Following Surgery for Breast Cancer. Clinical Pharmacology & Therapeutics. 2026 Aug 12. Online Ahead of Print. https://doi.org/10.1002/cpt.70455 🟪
+2.	Lai JH, Avanceña ALV, Cata JP, Barner JC, Giordano SH, Park C, Zhao H, Evoy KE, Lin JK, **Spencer JC**, Chavez-MacGregor M, Hunt KK, Wanis KN. Initiation of Gabapentin with Opioids and Risk of Respiratory Cardiovascular and Opioid-Related Adverse Events Following Surgery for Breast Cancer. Clinical Pharmacology & Therapeutics. 2026 Aug 12. Online Ahead of Print.
+https://doi.org/10.1002/cpt.70455 🟪
 
 3.	Noel L, Abousaway R\*, Zhang H\*, **Spencer JC**. Patient-centered communication and breast and cervical cancer screening in the US health information national trends survey. Prev Onc & Epid. 2026 Jul 30; 4(1). https://doi.org/10.1080/28322134.202.2710453 🟦 🟪 ❇️
 
